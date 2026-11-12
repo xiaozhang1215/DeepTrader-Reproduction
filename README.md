@@ -1,5 +1,6 @@
 # DeepTrader-Reproduction
 Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis.
+
 **11月12日谈话记录**
 1. 数据：tushare上有接口，可以直接用python下载，是否免费未知
 2. 需学习：
