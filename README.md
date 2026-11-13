@@ -2,7 +2,7 @@
 Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis.
 
 **11月12日谈话记录**
-1. 数据：tushare：点击这里 [下载数据]([https://tushare.pro](https://tushare.pro/home/#/) "注册获取免费Token") 获取数据。
+1. 数据：tushare：<https://tushare.pro/home/#/>
 2. 需学习：
    - **使用少量数据跑通算法**
    - 强化学习中更新参数的具体内容
