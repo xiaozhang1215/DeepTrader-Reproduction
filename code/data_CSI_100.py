@@ -5,7 +5,7 @@ import numpy as np
 import os
 import time
 
-TOKEN = '68efd2b46808192e929a974c25c4e60aacce30e204443df0f79094c6'
+TOKEN = 'xxxx'
 ts.set_token(TOKEN)          # 设置全局 Token
 pro = ts.pro_api()           # 初始化接口实例
 
@@ -64,7 +64,7 @@ def get_stock_data(stock_list,
                    start_date='20220101', 
                    end_date='20221231', 
                    sleep_time=0.3,
-                   pro=ts.pro_api('68efd2b46808192e929a974c25c4e60aacce30e204443df0f79094c6')):
+                   pro=pro):
     """
     Args:
     stock_list (list): List of stock codes to retrieve data for.
