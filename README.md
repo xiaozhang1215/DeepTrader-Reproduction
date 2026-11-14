@@ -21,4 +21,12 @@ Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis
 
 1.tushare验证成功，CSI100数据可获得。
 
+**11月14日**
+
+可调整部分：
+
+1. 股票数量。ASU部分特征数量。
+2. 随机生成市场评分单元数据和股票间图结构数据，以方便调用官方代码。
+
+
   
