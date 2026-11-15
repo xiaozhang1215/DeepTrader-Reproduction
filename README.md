@@ -15,7 +15,7 @@ Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis
    - 换不同的“积木”
    - 在不同时期的因果结构是否保持一致？如果一致，是否可以改进算法提升准确性？
 6. 看另外一篇论文，注意理论和实际的差距。
-7. 尝试配置Claude。(这个非常不容易 实在不行还是 codex 吧)(是的已放弃，甚至codex我都配置不了，凑合用cline吧)
+- [x] 7. 已配置codex
 
 **11月13日**
 
@@ -27,6 +27,12 @@ Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis
 
 1. 股票数量。ASU部分特征数量。
 2. 随机生成市场评分单元数据和股票间图结构数据，以方便调用官方代码。
+
+**11月15日**
+
+1. 已用上codex，发现除了贵一点整体性能还是比cline好。
+2. 强化学习基本概念
+
 
 
   
