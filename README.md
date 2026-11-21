@@ -33,6 +33,11 @@ Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis
 1. 已用上codex，发现除了贵一点整体性能还是比cline好。
 2. 强化学习基本概念
 
+**11月16日-20日**
 
+1. 强化学习基本原理已学完
+2. 阅读综述
+3. 初步确定毕业论文选题
+4. 一夜之间国产AI都开始限额了。
 
   
