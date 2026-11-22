@@ -40,4 +40,11 @@ Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis
 3. 初步确定毕业论文选题
 4. 一夜之间国产AI都开始限额了。
 
+**11月22日**
+
+1. 已然确定好题目
+2. 老师我说什么您都同意吗，，我这题目真能行吗，，
+
+
+
   
