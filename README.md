@@ -45,6 +45,10 @@ Reproduction of DeepTrader (AAAI 2021) and improvements for undergraduate thesis
 1. 已然确定好题目
 2. 老师我说什么您都同意吗，，我这题目真能行吗，，
 
+**11月25日**
+
+1. 顺着思路看论文还挺爽的，可惜持续获取信息的能力有限，没一会就累了。
+
 
 
   
